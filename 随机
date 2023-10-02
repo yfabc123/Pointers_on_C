@@ -1,0 +1,3 @@
+  char ch;
+  while(( ch=getchar())!=EOF &&ch!='\n');
+   注意消除冗余部分
